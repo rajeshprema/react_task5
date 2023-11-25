@@ -7,8 +7,9 @@ const EditProfile = () => {
         <div>
             <h2>Edit Profile</h2>
             <p>User ID: {id}</p>
-            {/* Add form to edit user profile */}
+        
         </div>
+
     );
 };
 export default EditProfile;
